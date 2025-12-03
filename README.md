@@ -15,12 +15,9 @@ JPMC.ipynb - main analysis file
    ```bash
    conda create -n income-env python=3.9 -y
    conda activate income-env
-1. Create a Python environment in terminal
-  conda create -n income-env python=3.9 -y
-  conda activate income-env
-
-2. Install dependencies
+   
+2. **Install dependencies**
+   ```bash
    pip install -r requirements.txt
 
-3. Run the notebook
-   
+3. **Run the notebook**
