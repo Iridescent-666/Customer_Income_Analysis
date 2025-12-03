@@ -1,13 +1,12 @@
-# Customer Income Analysis
+## Customer Income Analysis
 This project develops a full machine-learning pipeline to predict customer income levels and segment the customer population into meaningful behavioral groups.
 
-# Tech Stack
+## Tech Stack
 Python (Pandas, Matplotlib, Seaborn)
 
-# Files
+## Files
 JPMC.ipynb - main analysis file
 
-# Quick Start
 ## Quick Start
 
 1. **Create a Python environment**
